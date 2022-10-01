@@ -16,7 +16,7 @@ const cscCourses = [
                     [3200, 1, "Ethics in Computing", "Introduction to ethics theory, ethical decision-making as it relates to the computing professional, licensing, intellectual property, conflicts of interest, freedom of information and privacy, security.", "Prerequisite of CSC 3102; ENGL 1005 or ENGL 2000 or HNRS 2000"],
                     [3304, 3, "Introduction to Systems Programming", "Introduction to systems programming, using the C programming language: OS command and shell basics, process creation and control, system calls, signals, concurrency and virtualization.", null, "Credit or registration required in CSC 3102"],
                     [3380, 3, "Object Oriented Design", "Advanced object oriented software development; emphasis on the use of the unified modeling language as a design tool.", "Prerequisite of CSC 1254 or CSC 1351", null],
-                    [3501, 3, "Computer Organization and Design", "Computer arithmetic, design of high-speed adders and multipliers, CPU concepts, instruction fetching and decoding, hardwired control, microprogramming control, main memory, I/O organization, assembly language programming techniques, CPU instruction sets and addressing modes.", "Prerequisite of CSC 2259", null],
+                    [3501, 3, "Computer Organization and Design", "Computer arithmetic, design of high-speed adders and multipliers, CPU concepts, instruction fetching and decoding, hardwired control, microprogramming control, main memory, I/O organization, assembly language programming techniques, CPU instruction sets and addressing modes.", "Prerequisite of CSC 2259", null],                        
                     [4101, 3, "Programming Languages", "Principles of programming language design; specification of syntax and semantics; underlying implementation of block structured languages; dynamic memory allocation for strings, lists and arrays; imperative versus applicative programming; logic programming; modern programming languages.", "Prerequisite of CSC 3102", null],
                     [4103, 3, "Operating Systems", "Design techniques, process management, processor scheduling; deadlocks, memory management, secondary memory management, file management; I/O systems, Unix systems.", "Prerequisite of CSC 3102", null],
                     [4330, 3, "Software Systems Development", "Software requirements analysis; design representation, programming methodologies; verification, validation, maintenance and software planning.", "Prerequisite of CSC 3102 and CSC 3380", null],
@@ -26,15 +26,15 @@ const cscCourses = [
                     [4402, 3, "Database Systems", "Fundamentals of the relational data model; the SQL query language; E-R modeling and database design theory; storage structures and query optimization; transaction processing and concurrency control.", "Prerequisite of CSC 3102", null],
                     [4501, 3, "Computer Networks", "Introduction to local, metropolitan and wide area networks using the standard OSI reference model as a framework; introduction to the Internet protocol suite and network tools and programming; discussion of various networking technologies.", "Prerequisite of CSC 3102", null],
                     [4562, 3, "Mobile Security and Applied Cryptography", "Principles, techniques and methods for securing mobile systems; cryptographic tools and protocols for ensuring information protection.", "Prerequisite of CSC 4103 and MATH 2090", null],
-
-                    
+        
+                            
                     [2463, 3, "Programming Digital Media", null, null, null],
                     [2533, 3, "Introduction to Engineering Computation", null, null, null ],
                     [2610, 3, "Cloud Fundamentals & Web Programming", null, null, null],
                     [2730, 3, "Data Science and Analytics", null, null, null],
                     [3730, 3, "Machine Learning and Data Analytics", null, null, null],
                     [4243, 3, "Interface Design and Technology", null, null, null],
-                    [4263, 3, "Video Game Design", null, null, null],
+                    [4263, 3, "Video Game Design", null, null, null],                            
                     [4332, 3, "Software Quality & Testing", null ,null, null],
                     [4343, 3, "Applied Deep Learning", null, null, null],
                     [4356, 3, "Interactive Computer Graphics", null, null, null],
@@ -46,6 +46,5 @@ const cscCourses = [
                     [4610, 3, "Cloud Systems and Virtualization", null, null, null],
                     [4740, 3, "Big Data Technologies", null, null, null],
                     [4890, 3, "Introduction to Theory of Computation", null, null, null],
-
+        
                 ];
-
